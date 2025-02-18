@@ -5,6 +5,9 @@ h1{
 .middle{
 	width: 100%;
 	margin: 10px 0;
+	border-spacing: 1px;
+	cell-padding: 1px;
+	border: 1px solid #000;
 }
 .firstrow{
 	background-color: green;
